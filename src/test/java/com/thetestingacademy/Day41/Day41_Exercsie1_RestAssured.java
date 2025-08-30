@@ -1,4 +1,4 @@
-package com.thetestingacademy;
+package com.thetestingacademy.Day41;
 
 import io.restassured.RestAssured;
 
